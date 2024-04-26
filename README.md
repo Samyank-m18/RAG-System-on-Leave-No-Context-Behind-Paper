@@ -1,1 +1,4 @@
 # RAG-System-on-Leave-No-Context-Behind-Paper
+
+This project is a Retrieval-Augmented Generation (RAG) system built with the LangChain framework, designed to integrate large language models (LLMs) like Gemini 1.5 Pro with external data sources. By connecting the system with the "Leave No Context Behind" paper published by Google on April 10, 2024, it retrieves relevant information from the paper and uses it to enhance the LLM's context during question answering and content generation tasks. The project includes a Streamlit-based web application for easy interaction, allowing users to query and explore the integrated knowledge base. This approach showcases the potential of RAG systems to boost LLMs' accuracy and contextual relevance by linking them to specific, up-to-date information sources.
+![image](https://github.com/Samyank-m18/RAG-System-on-Leave-No-Context-Behind-Paper/assets/115860318/86429d67-78fd-483c-80a6-10c3a50e8486)
